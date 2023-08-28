@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TypingSite/static/css/main.b48ebf73.css",
-    "main.js": "/TypingSite/static/js/main.583853f4.js",
+    "main.css": "/TypingSite/static/css/main.9c4e6453.css",
+    "main.js": "/TypingSite/static/js/main.07deb714.js",
     "static/js/787.c4e7f8f9.chunk.js": "/TypingSite/static/js/787.c4e7f8f9.chunk.js",
     "index.html": "/TypingSite/index.html",
-    "main.b48ebf73.css.map": "/TypingSite/static/css/main.b48ebf73.css.map",
-    "main.583853f4.js.map": "/TypingSite/static/js/main.583853f4.js.map",
+    "main.9c4e6453.css.map": "/TypingSite/static/css/main.9c4e6453.css.map",
+    "main.07deb714.js.map": "/TypingSite/static/js/main.07deb714.js.map",
     "787.c4e7f8f9.chunk.js.map": "/TypingSite/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b48ebf73.css",
-    "static/js/main.583853f4.js"
+    "static/css/main.9c4e6453.css",
+    "static/js/main.07deb714.js"
   ]
 }
